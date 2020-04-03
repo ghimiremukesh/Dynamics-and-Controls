@@ -14,8 +14,9 @@ bike were developed and a simulink model was created accordingly.
 [Full Report Here](Project_One/Project_One.pdf)
 
 # Project-2: Model Vibration in a Centrifugal Pump
-<div align="center">
-<img src = "https://github.com/ghimiremukesh/Engineering-System-Analysis-and-Design/tree/master/Project_Two/Project2.jpg"> </div>
+<p align="center">
+  <img src = "https://github.com/ghimiremukesh/Engineering-System-Analysis-and-Design/tree/master/Project_Two/Project2.jpg"> 
+</p>
 *Centrifugal Pump*
 
 The objective of this project was to model the vibrations caused by a particle caught up in a centrifugal pump in the impeller as shown in the above figure. The pump was assumed to be resting on vibration isolator made of spring and damper.
