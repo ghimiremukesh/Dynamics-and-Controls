@@ -12,3 +12,6 @@ Projects for Dynamics and Controls Class
 ```{r image-ref-for-in-text, echo = FALSE, message=FALSE, fig.align='center', fig.cap='Some cool caption', out.width='0.75\\linewidth', fig.pos='H'}
 knitr::include_graphics("Project_One/Project_One.pdf")
 ```
+```{r image-ref-for-in-text, echo = FALSE, message=FALSE, fig.align='center', fig.cap='Some cool caption', out.width='0.75\\linewidth', fig.pos='H'}
+knitr::include_graphics("./folder/folder/plot_file_name.pdf")
+```
