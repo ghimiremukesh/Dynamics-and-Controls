@@ -12,3 +12,11 @@ chair and the bike was given as shown in the figure above. Mathematical model fo
 bike were developed and a simulink model was created accordingly.
 
 [Full Report Here](Project_One/Project_One.pdf)
+
+# Project-2: Model Vibration in a Centrifugal Pump
+![Problem Statement](Project_Two/Project2.jpg)
+*Centrifugal Pump*
+
+The objective of this project was to model the vibrations caused by a particle caught up in a centrifugal pump in the impeller as shown in the above figure. The pump was assumed to be resting on vibration isolator made of spring and damper.
+
+[Full Report Here](Project_Two/Project_Two.pdf)
