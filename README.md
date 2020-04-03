@@ -8,10 +8,4 @@ Projects for Dynamics and Controls Class
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ghimiremukesh/Engineering-System-Analysis-and-Design/tree/master/Project_One/Project_One.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
-```{r image-ref-for-in-text, echo = FALSE, message=FALSE, fig.align='center', fig.cap='Some cool caption', out.width='0.75\\linewidth', fig.pos='H'}
-knitr::include_graphics(Project_One/Project_One.pdf)
-```
-```{r image-ref-for-in-text, echo = FALSE, message=FALSE, fig.align='center', fig.cap='Some cool caption', out.width='0.75\\linewidth', fig.pos='H'}
-knitr::include_graphics("./folder/folder/plot_file_name.pdf")
-```
+![Alt](Project_One/Project_One.pdf){width=100% height=400}
