@@ -5,7 +5,7 @@ Projects for Dynamics and Controls Class
 
 <object data="https://github.com/ghimiremukesh/Engineering-System-Analysis-and-Design/tree/master/Project_One/Project_One.pdf" type="application/pdf" width="750px" height="750px">
     <embed src=https://github.com/ghimiremukesh/Engineering-System-Analysis-and-Design/tree/master/Project_One/Project_One.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ghimiremukesh/Engineering-System-Analysis-and-Design/tree/master/Project_One/Project_One.pdff">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ghimiremukesh/Engineering-System-Analysis-and-Design/tree/master/Project_One/Project_One.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
