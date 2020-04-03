@@ -14,7 +14,11 @@ bike were developed and a simulink model was created accordingly.
 [Full Report Here](Project_One/Project_One.pdf)
 
 # Project-2: Model Vibration in a Centrifugal Pump
-![Project_Two](Project_Two/Project2.jpg) {.center}
+<div align="center">
+  
+  ![Project_Two](Project_Two/Project2.jpg)
+  
+ </div>
 
 *Centrifugal Pump*
 
