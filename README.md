@@ -9,3 +9,5 @@ Projects for Dynamics and Controls Class
     </embed>
 </object>
 
+{r image-ref-for-in-text, echo = FALSE, message=FALSE, fig.align='center', fig.cap='Some cool caption', out.width='0.75\\linewidth', fig.pos='H'}
+knitr::include_graphics("Project_One/Project_One.pdf")
