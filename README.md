@@ -1,5 +1,5 @@
 # Engineering System Analysis and Design 
-Projects for Dynamics and Controls Class
+<h3>Projects for Dynamics and Controls Class</h3>
 
 # Project-1: Model and Optimize Forces on a Bike Rider
 ![Problem Statement](Project_One/Project1.jpg)
